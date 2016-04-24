@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2013\Projects\MyRestfullApp\MyRestfullApp\bin\MyRestfullApp.dll.config
+c:\users\usuario\documents\visual studio 2013\Projects\MyRestfullApp\MyRestfullApp\bin\MyRestfullApp.dll
+c:\users\usuario\documents\visual studio 2013\Projects\MyRestfullApp\MyRestfullApp\bin\MyRestfullApp.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\MyRestfullApp\MyRestfullApp\obj\Debug\MyRestfullApp.dll
+c:\users\usuario\documents\visual studio 2013\Projects\MyRestfullApp\MyRestfullApp\obj\Debug\MyRestfullApp.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp\obj\Debug\MyRestfullApp.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp\bin\Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp\bin\EntityFramework.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp\bin\Data.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp\bin\EntityFramework.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp\bin\EntityFramework.SqlServer.xml

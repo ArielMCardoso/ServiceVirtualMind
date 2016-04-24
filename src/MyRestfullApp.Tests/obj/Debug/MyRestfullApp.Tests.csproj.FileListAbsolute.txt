@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\bin\Debug\MyRestfullApp.Tests.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\bin\Debug\MyRestfullApp.Tests.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\bin\Debug\MyRestfullApp.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\bin\Debug\MyRestfullApp.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\obj\Debug\MyRestfullApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\obj\Debug\MyRestfullApp.Tests.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\obj\Debug\MyRestfullApp.Tests.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\bin\Debug\Data.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\bin\Debug\Data.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\bin\Debug\MyRestfullApp.Tests.dll.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\MyRestfullApp\MyRestfullApp.Tests\bin\Debug\EntityFramework.SqlServer.xml
